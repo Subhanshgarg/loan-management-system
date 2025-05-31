@@ -54,7 +54,25 @@ src/main/java/com/fintech/
 │   └── UserService.java
 └── LoanManagementSystemApplication.java
 ```
+## 📸 Screenshots
 
+### 🔐 Login Page
+![Login Page](images/Login.jpg)
+
+### 📝 Register Page
+![Register Page](images/Register.jpg)
+
+### 🧾 Loan Application for Customer
+![Loan Application](images/Loan%20Application%20for%20Customer.jpg)
+
+### 📊 Loan History
+![Loan History](images/Loan%20History.jpg)
+
+### 🏠 Admin Landing Page
+![Admin Landing Page](images/Admin%20Landing%20Page.jpg)
+
+### 📋 Admin Dashboard
+![Admin Dashboard](images/Admin%20Dashboard.jpg)
 ## Thought Process
 
 ### Entity Design
